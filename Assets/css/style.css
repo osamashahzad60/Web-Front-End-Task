@@ -1,0 +1,130 @@
+body{  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-caption{
+    margin-bottom: 200px;
+}
+
+.nav-link{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 1px solid rgb(110, 105, 105);
+    color:rgb(110, 105, 105) !important; 
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px !important;
+}
+
+.para1{
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 5px;
+    margin-bottom: 0px;
+    margin-top: 150px;
+    font-size: 80px;
+    color:rgb(83, 75, 75);
+}
+
+.para2{
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 5px;
+    margin-top: 0px;
+    font-size: 80px;
+    color:rgb(83, 75, 75);
+}
+
+.section-2, .section-4{
+    background-color: white;
+}
+
+.section-2 > h4{
+    font-family: 'Pacifico', cursive;   
+}
+
+.bakery-images{
+    border-radius:50%;
+}
+
+.col-sm-4 > h5{
+    letter-spacing: 3px;
+    color:#515254;
+}
+
+.section-3{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.section-3 > .float-left > h3{
+    font-family: 'Pacifico', cursive;
+}
+
+.float-left{
+    margin-left: 200px;
+}
+
+.btn{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 7px 20px 7px 20px;
+    letter-spacing: 1px;
+    border-radius:0;
+}
+
+.float-right{
+    margin-top:150px;
+    width:500px;
+}
+
+.progress{
+    background-color: #ffffff;
+    margin-top:30px;
+}
+
+.progress-bar{
+    background-color: #e9996b;
+}
+
+.section-4 > h4{
+    font-family: 'Pacifico', cursive;   
+}
+
+.footer{
+    background: #2c2c2c;
+}
+
+.footer-brand{
+    font-family: 'Pacifico', cursive;   
+}
+
+input[type=email]{
+    padding:10px 10px 10px 10px;
+    text-align: center;
+    border: none;
+}
+
+input[type=submit]{
+    padding:10px 20px 10px 20px;
+    background: #9d7841;
+    text-align: center;
+    margin-left:-5px;
+    border: none;
+}
+
+form{
+    border-bottom: 1px solid white;
+}
+
+.number{
+    color:#9d7841;
+}
+
+.copyright{
+    background: black;
+    margin:-48px !important;
+}
